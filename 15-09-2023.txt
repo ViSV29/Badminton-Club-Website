@@ -14,5 +14,4 @@
 14 J Christie
 15 TW Wang
 16 S Praneeth
-17 S V
-18  Lola
+17  Lola
